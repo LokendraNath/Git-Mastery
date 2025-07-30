@@ -1,5 +1,4 @@
 ## hello Boys
 
-- this line from dev-altman
+- this is from dev lokendra
 - chatGpt is smartes ai
-
